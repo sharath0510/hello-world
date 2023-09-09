@@ -2,3 +2,6 @@
 >git init 
 >git clone <repo link>
 >git add -all / git add -A (adds all the files)
+>git branch <branchName> (to create a new branch under master)
+>git checkout <branchName> (to switch to a particular branch)
+
