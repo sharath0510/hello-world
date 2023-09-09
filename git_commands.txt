@@ -4,4 +4,6 @@
 >git add -all / git add -A (adds all the files)
 >git branch <branchName> (to create a new branch under master)
 >git checkout <branchName> (to switch to a particular branch)
+Note: Using the -b option on checkout will create a new branch, and move to it, if it does not exist
+Ex: git checkout -b <branchName>
 
